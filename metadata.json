@@ -1,0 +1,6 @@
+{
+  "name": "HumanSense AI - SmartSpectra Vitals",
+  "description": "Real-time contactless physiological vitals measurement desktop application powered by Presage SmartSpectra SDK.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
